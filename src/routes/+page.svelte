@@ -80,5 +80,5 @@
 <Contact id="contact" />
 <footer class="flex justify-between bg-sandy px-8 pb-16 font-latin font-light lg:px-16">
 	<span>©2023 BangMod Hackathon 2024</span>
-	<a href="#home">Back to the top ↑</a>
+	<a href="#top">Back to the top ↑</a>
 </footer>
