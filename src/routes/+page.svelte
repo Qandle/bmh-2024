@@ -71,7 +71,7 @@
 		</div>
 	</div>
 </nav>
-<Hero id="home" />
+<Hero id="top" />
 <About id="about" />
 <Qualification id="qualification" />
 <Award id="award" />
