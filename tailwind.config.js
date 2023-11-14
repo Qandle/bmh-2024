@@ -9,7 +9,7 @@ export default {
 			latin: ['Outfit'],
 			decorate: ['Homemade Apple'],
 			circle: ['Tenor Sans'],
-			mali: ['Mali'],
+			mali: ['Mali']
 		},
 		extend: {
 			colors: {
